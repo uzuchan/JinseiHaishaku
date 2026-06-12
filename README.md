@@ -1,8 +1,8 @@
 # 人生拝借 — a life borrowed
 
-[![人生拝借 — a life borrowed](image/thumbnail.png)](https://uzuchan.github.io/JinseiHaishaku.github.io/)
+[![人生拝借 — a life borrowed](image/thumbnail.png)](https://uzuchan.github.io/JinseiHaishaku/)
 
-**https://uzuchan.github.io/JinseiHaishaku.github.io/**
+**https://uzuchan.github.io/JinseiHaishaku/**
 
 八つの人生のうち，ひとつが，あなたに貸し出されます。  
 幾度かの選択が，物語を分かち，墓碑銘をひとつ残す。
